@@ -4132,3 +4132,4 @@ end
 
 local flags = lib.flags;
 
+return lib
